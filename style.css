@@ -1,0 +1,46 @@
+body {
+    font: 18px Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #04B4AE;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.color {
+    background-color: #636766;
+}
+
+.color-3 {
+    color: aliceblue;
+}
+
+
+/* Contatos */
+
+#contato li {
+    display: inline-block;
+}
+
+#contato li a {
+    display: inline-block;
+    margin: 1em;
+    width: 48px;
+    height: 48px;
+    text-indent: -9999px;
+    text-align: center;
+}
+
+#contato {
+    margin-bottom: 50px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.imagens {
+    text-align: center;
+}
